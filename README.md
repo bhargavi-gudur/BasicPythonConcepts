@@ -1,5 +1,5 @@
 # BasicPythonConcepts
-# Basic Python Concepts
+
 
 ## Description
 This repository provides a foundational understanding of **Python programming**, covering core concepts that are essential for beginners. It includes exercises, explanations, and examples to help new learners get started with Python in a structured way.
@@ -46,7 +46,7 @@ To get started with this repository:
 ---
 
 ## Author
-**Bhargavigudur**
+**GandlaBhargavi**
 
 This repository is created to support Python learners in building a strong foundation in programming. Feedback, suggestions, and contributions are welcome!
 
