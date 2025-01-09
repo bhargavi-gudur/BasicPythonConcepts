@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Chatbot</title>
+    <script>
+        async function sendMessage() {
+            const message = document.getElementById("message").value;
+            const responseElement = document.getElementById("response");
+
+            try {
+                const response = await fetch("/api", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify({ message: message })
+                });
+
+                if (response.ok) {
+                    const data = await response.json();
+                    responseElement.textContent = data.response;
+                } else {
+                    responseElement.textContent = "Error: " + response.status;
+                }
+            } catch (error) {
+                responseElement.textContent = "Error: " + error.message;
+            }
+        }
+    </script>
+</head>
+
+<body>
+    <h1>Chat with AI</h1>
+    <input type="text" id="message" placeholder="Type your message">
+    <button onclick="sendMessage()">Send</button>
+    <p id="response"></p>
+</body>
+
+</html>
