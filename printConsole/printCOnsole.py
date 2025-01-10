@@ -7,3 +7,8 @@ print("FIRST PROGRAM-PYTHON PRINT FUNCTION")
 print("it is declared like this:")
 print("print('what to print') ")
 print("***************************")
+#string manipulation error 
+#string concatetion is done with + sign
+print('hello +' + ' BHARGAVI GUDUR')
+print("hello + " + "BHARGAVI GANDLA")
+print('hello + ' + "BHARGAVI GANDLA")
