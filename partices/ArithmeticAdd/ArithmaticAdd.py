@@ -10,4 +10,4 @@ num = input("enter the integer : ")
 sum = 0
 for digit in num :
     sum = sum + (int(digit))
-print("sum of didit number :",sum)
+print("sum of digit number :",sum)
