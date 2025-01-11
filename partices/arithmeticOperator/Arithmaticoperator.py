@@ -24,9 +24,23 @@ y = int(input("enter the y :"))
 print(x and y)
 print(x or y)
 print('x',not x,'y',not y)
+#method3
+x = int(input("enter the x :"))
+y = int(input("enter the y :"))
+print(x<1 and y>0)
+print(x>0 or y<3)
+print('x',not x,'y',not y)
 
 ##bitwise
-
+b=1
+b<<=2
+print("check left shift one line assignment b :",b)
+b=1
+b>>=2
+print("check right shift one line assignment b :",b)
+b=9
+b=~b
+print("negation of b: ",b)
 ##floor division
 a = int(input("enter the a :"))
 b = int(input("enter the b :"))
@@ -46,9 +60,7 @@ c+=2
 print("check add one line assignment c :",c)
 a/=2
 print("check division one line assignment a :",a)
-b=1
-b<<=2
-print("check left shift one line assignment b :",b)
+
 ##identity
 
 ##membership
