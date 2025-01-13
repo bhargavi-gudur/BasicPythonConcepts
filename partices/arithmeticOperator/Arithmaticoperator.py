@@ -12,7 +12,7 @@ print(num1 >=num2)
 print(num1 <=num2)
 
 ##logical and ,or ,not
-#method 1
+# method 1
 x = False
 y = True
 print(x and y)
