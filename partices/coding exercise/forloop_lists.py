@@ -17,4 +17,13 @@ for i in  range(1,10):
 lists_item =[1,2,3,4,5,6,7,8,9]
 for i in  range(len(lists_item)):
     print("lists ",lists_item[i]+i)
-    
+
+# key location same code using list annd for loop.
+key_location =input('enter the location?')
+locations=["garage","living room",'chair',"closet","bedroom"]
+for  i in  locations:
+    if i ==key_location:
+        print('KEY FOUND')
+        break
+    else :
+        print("key is not found in",i)
