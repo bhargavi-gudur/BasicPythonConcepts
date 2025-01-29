@@ -1,5 +1,4 @@
 # we write two programs
-
 # to create address book and write some records into it
 # read this book
 book ={}
