@@ -22,8 +22,11 @@ for i in  range(len(lists_item)):
 key_location =input('enter the location?')
 locations=["garage","living room",'chair',"closet","bedroom"]
 for  i in  locations:
-    if i ==key_location:
+    if i == key_location:
         print('KEY FOUND')
         break
     else :
         print("key is not found in",i)
+# pop function
+lists = (2,3,4,56,67,89,123,129)
+print('tuple:',lists.pop())
