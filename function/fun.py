@@ -12,3 +12,10 @@ def add():
     
 greet()
 add()
+# example def  function 
+a = int(input("enter the value a"))
+b = int(input("enter the value b"))
+def add(a,b):  
+    c = a+b
+    print("sum of addition :",c)
+add(a,b)
