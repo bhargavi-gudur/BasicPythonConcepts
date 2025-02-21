@@ -36,3 +36,6 @@ first_no = int(input("enter first number :"))
 second_no = int(input("enter second number :"))
 sum = first_no +second_no
 print('sum:',sum)
+ 
+
+
