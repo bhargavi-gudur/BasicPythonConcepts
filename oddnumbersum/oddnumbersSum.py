@@ -8,5 +8,6 @@ def sumofoddnum(num):
         print(f"odd numbers :{current} , sum : {sum}")
         current += 2
     print(f"total sum : {sum}")
-
-sumofoddnum(num)
+    
+for i in range(5):
+ sumofoddnum(num)
