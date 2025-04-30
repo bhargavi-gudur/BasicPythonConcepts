@@ -1,0 +1,4 @@
+Hello, World!
+This is a test file.
+Goodbye!
+This is a new line added to the copied file.
