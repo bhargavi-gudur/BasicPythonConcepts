@@ -19,6 +19,7 @@ This repository is ideal for anyone starting their journey in Python programming
 ---
 
 ## Repository Details
+
 - **Introduction to Python**: A quick and easy overview of Python syntax and structure.
 - **Core Python Topics**:
   - Understanding variables and data types
