@@ -35,12 +35,15 @@ Each topic is structured for clarity with concise explanations and examples for 
 ## Getting Started
 To get started with this repository:
 1. **Clone the Repository**:
+
    ```bash
    git clone https://github.com/Bhargavigudur/basic_python.git
    cd basic_python
    ```
+
 2. **Run the Python Files**:
    Use a Python 3 environment to run the scripts:
+
    ```bash
    python3 filename.py
    ```
