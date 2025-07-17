@@ -22,6 +22,7 @@ This repository is ideal for anyone starting their journey in Python programming
 ## Repository Details
 
 - **Introduction to Python**: A quick and easy overview of Python syntax and structure.
+
 - **Core Python Topics**:
   - Understanding variables and data types
   - Mastering control flow with loops and conditionals
@@ -34,6 +35,7 @@ Each topic is structured for clarity with concise explanations and examples for 
 ---
 
 ## Getting Started
+
 To get started with this repository:
 1. **Clone the Repository**:
 
@@ -52,6 +54,7 @@ To get started with this repository:
 ---
 
 ## Author
+
 **GandlaBhargavi**
 
 This repository is created to support Python learners in building a strong foundation in programming. Feedback, suggestions, and contributions are welcome!
