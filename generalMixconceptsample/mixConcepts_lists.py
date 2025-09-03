@@ -65,7 +65,11 @@ map_conversionTOlists = map(int, input(
 numbers = list(map_conversionTOlists)
 print(numbers)
 
-# Write your code here
+# Write your code here to change the third element
+def change_third_element():
+    numbers = [10, 20, 30, 40, 50, 60, 70]
+    numbers[2] = 1000
+    print(numbers)
 
 
 def changenumber():
@@ -74,20 +78,15 @@ def changenumber():
     # numbers[2]=valuechanges4
     numbers[2] = 1000
     print(numbers)
-
-
 changenumber()
-
 
 def clear_list():
     numbers = [10, 20, 30, 40, 50, 60, 70]
     numbers[:] = []
     print(numbers)
-
-
 clear_list()
 
-
+# Write your code here to insert a number at a given position
 numbers = [10, 20, 30, 40, 50]
 # Take inputs from user
 pos = int(input("Enter the position: "))
