@@ -1,4 +1,7 @@
-
+''' 
+ This code is a sample of various list operations in Python, 
+ including creation, iteration, summation, and modification of lists.
+'''
 numbers = [10, 20, 30]
 # Write your code here
 
