@@ -28,7 +28,8 @@ This repository is ideal for anyone starting their journey in Python programming
   - Mastering control flow with loops and conditionals
   - Handling exceptions using `try` and `except`
   - Writing reusable code with functions
-- **Exercises and Solutions**: Practical coding tasks to reinforce concepts.
+
+- **Exercises and Solutions**: Practical coding  tasks to reinforce concepts.
 
 Each topic is structured for clarity with concise explanations and examples for hands-on learning.
 
