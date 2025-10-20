@@ -42,8 +42,10 @@ To get started with this repository:
 1. **Clone the Repository**:
 
    ```bash
+
    git clone https://github.com/Bhargavigudur/basic_python.git
    cd basic_python
+
    ```
 
 2. **Run the Python Files**:
