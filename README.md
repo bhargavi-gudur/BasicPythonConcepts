@@ -24,13 +24,13 @@ This repository is ideal for anyone starting their journey in Python programming
 
 - **Core Python Topics**:
   - Understanding variables and data types
-  - Mastering control flow with loops and conditionals
+  - Mastering control flow with loops and conditionals.
   - Handling exceptions using `try` and `except`
   - Writing reusable code with functions
 
-- **Exercises and Solutions**: Practical coding  tasks to reinforce concepts.
-
-Each topic is structured for clarity with concise explanations and examples for hands-on learning.
+- **Exercises and Solutions**:
+ Practical coding  tasks to reinforce concepts.
+ Each topic is structured for clarity with concise explanations and examples for hands-on learning.
 
 ---
 
