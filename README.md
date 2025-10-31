@@ -52,7 +52,9 @@ To get started with this repository:
    Use a Python 3 environment to run the scripts:
 
    ```bash
+
    python3 filename.py
+
    ```
 
 ---
