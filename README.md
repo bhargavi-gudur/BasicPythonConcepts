@@ -31,7 +31,7 @@ This repository is ideal for anyone starting their journey in Python programming
 - **Exercises and Solutions**:
 
  Practical coding  tasks to reinforce concepts.
- Each topic is structured for clarity with concise explanations and examples for hands-on learning.
+ Each topic is structured for clarity with  concise explanations and examples for hands-on learning.
 
 ---
 
