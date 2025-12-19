@@ -1,6 +1,6 @@
 """
 @file RepeatedWords.py
-@author Gandla
+@author Gandla Bhargavi 
 @brief Program to count how many times each word appears in a sentence.
 
 @date 2025-11-30
