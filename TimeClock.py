@@ -1,6 +1,6 @@
 """
 @file TimeClock.py
-@author Gandla
+@author Gandla Bhargavi 
 @brief Program to display current time and run a live digital clock.
 
 @date 2025-12-01
