@@ -1,6 +1,6 @@
 """
 @file ShaktiPeethCheck.py
-@author Gandla
+@author Gandla Bhargavi 
 @brief Check whether a given temple is in the sample list of Shakti Peethams.
 
 Input  : Temple name (string)
