@@ -1,6 +1,6 @@
 # program to add digits of a number.
 
-# method 1 S
+# method 1S
 num = input("enter the integer : ")
 digit1 = int(num[0])
 digit2 = int(num[1])
