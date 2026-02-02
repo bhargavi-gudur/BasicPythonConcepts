@@ -1,4 +1,4 @@
-# program to add digits of a number.
+"""program to add digits of a number."""
 
 # method 1S
 num = input("enter the integer : ")
