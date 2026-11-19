@@ -1,0 +1,31 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run current Python file",
+      "type": "shell",
+      "command": "python",
+      "args": [
+        "${file}"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": [],
+      "inAgents": true
+    },
+    {
+      "label": "Run Flask demo",
+      "type": "shell",
+      "command": "python",
+      "args": [
+        "flask-demo/app.py"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": [],
+      "inAgents": true
+    }
+  ]
+}
